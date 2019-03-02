@@ -85,7 +85,7 @@ pvcwatch          1.0                 4c94655501ab        8 seconds ago       15
 pvcwatch          latest              4c94655501ab        8 seconds ago       157MB
 ```
 
-## 步署PVCWatch到Kubernetes集群中
+## 部署PVCWatch到Kubernetes集群中
 ```bash
 $ kubectl create -f kubernetes/pod-pvcwatch.yaml
 
