@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pvcwatch
+spec:
+  containers:
+    - name: pvcwatch
+      image: pvcwatch
+      imagePullPolicy: IfNotPresent
