@@ -1,10 +1,13 @@
 # 透過K8S的API來設計工具或應用程式 (Java)
 
-Kubernetes是一個強大的平台，您可以創建各種工具和客戶。幸運的是，在針對Kubernetes API進行編程時，
-有很多選擇。不幸的是，這些選項可能會被大量的API壓倒，這可能會讓一些程式開發人員無所事從。
+Kubernetes是一個強大的平台，您可以創建各種工具來跟Kubernetes結合。更幸運的是，在針對Kubernetes API進行程式開發時，
+Kubernetes提供了很多不同語言的client框架來使用。不幸的是，有關如何使用這些client框架的相關文件比較欠缺, 這可能會讓一些想進入到Kubernetes的程式開發人員不知該如何開始。
 
 本範示展示了Kubernetes作為平台的可擴展性。雖然此處介紹的概念可以應用於任何可以訪問Kubernetes API的語言，
 但這個Repo的討論和程式碼範例都集中在Java語言上。
+
+Youtube: https://youtu.be/EJr_NWzZdKc
+Slideshare: https://www.slideshare.net/erhwenkuo/cncf-explore-k8s-api-using-java-client
 
 ## 前置準備
 
