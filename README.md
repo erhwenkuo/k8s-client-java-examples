@@ -6,7 +6,8 @@ Kubernetes提供了很多不同語言的client框架來使用。不幸的是，�
 本範示展示了Kubernetes作為平台的可擴展性。雖然此處介紹的概念可以應用於任何可以訪問Kubernetes API的語言，
 但這個Repo的討論和程式碼範例都集中在Java語言上。
 
-Youtube: https://youtu.be/EJr_NWzZdKc
+Youtube(簡報): https://youtu.be/EJr_NWzZdKc
+Youtube(實作): https://youtu.be/cimWmnlETWc
 
 Slideshare: https://www.slideshare.net/erhwenkuo/cncf-explore-k8s-api-using-java-client
 
