@@ -7,6 +7,7 @@ Kubernetes提供了很多不同語言的client框架來使用。不幸的是，�
 但這個Repo的討論和程式碼範例都集中在Java語言上。
 
 Youtube: https://youtu.be/EJr_NWzZdKc
+
 Slideshare: https://www.slideshare.net/erhwenkuo/cncf-explore-k8s-api-using-java-client
 
 ## 前置準備
